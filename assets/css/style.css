@@ -135,6 +135,10 @@ ul {
 	margin-bottom: 20px;
 }
 
+em{
+	font-style: italic;
+}
+
 section {
 	width: 650px;
 	background-color: white;
